@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1s5LUtmVb8P1pM_tZ2a4IpnQxPVHakhiZ/view?usp=sharing](https://drive.google.com/file/d/1s5LUtmVb8P1pM_tZ2a4IpnQxPVHakhiZ/view?usp=sharing)
 
-<img src='https://dribbble.com/shots/6139167-Avento-marketing?utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share' alt="banner" width="400" align="right"></img>
+<img src="img.gif" alt="banner" width="400" align="right"></img>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandeyatul12&show_icons=true&locale=en&layout=compact" alt="pandeyatul12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandeyatul12&show_icons=true&locale=en" alt="pandeyatul12" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pandeyatul12&show_icons=true&locale=en" alt="pandeyatul12" /></p>
