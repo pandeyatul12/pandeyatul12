@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1eM4UZKVSQuJkfJrTsEoICn0WnrhpkQ_X/view?usp=sharing)](https://pandeyatul12.github.io)
+<img src='Banner.png' alt="banner"></img>
 
 <h1 align="center">Hi 👋, I'm Atul Kumar Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1s5LUtmVb8P1pM_tZ2a4IpnQxPVHakhiZ/view?usp=sharing](https://drive.google.com/file/d/1s5LUtmVb8P1pM_tZ2a4IpnQxPVHakhiZ/view?usp=sharing)
 
-<img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src=<a href=""https://iconscout.com/illustrations/programming" target="_blank">Programming Illustration</a> by <a href="https://iconscout.com/contributors/realvjy"></a> on <a href="https://iconscout.com">Iconscout</a>")">
+<img src='https://dribbble.com/shots/6139167-Avento-marketing?utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=peterhenderson&utm_content=Avento%20marketing&utm_medium=Social_Share' alt="banner" width="400" align="right"></img>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
