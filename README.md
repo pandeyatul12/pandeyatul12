@@ -1,6 +1,6 @@
 <img src='Banner.png' alt="banner"></img>
 
-<h1 align="center">Hi 👋, I'm Atul Kumar Pandey</h1>
+<h1 align="center">✌Welcome To My Page✌</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandeyatul12&label=Profile%20views&color=0e75b6&style=flat" alt="pandeyatul12" /> </p>
@@ -9,15 +9,13 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://pandeyatul12.github.io/odin-recipes/)
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, React, Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pandeyatul12](https://github.com/pandeyatul12)
 
 - 📫 How to reach me **pandeyatul0095@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s5LUtmVb8P1pM_tZ2a4IpnQxPVHakhiZ/view?usp=sharing](https://drive.google.com/file/d/1s5LUtmVb8P1pM_tZ2a4IpnQxPVHakhiZ/view?usp=sharing)
 
-<img src="img.gif" alt="banner" width="400" align="right"></img>
+<img src="img.gif" alt="banner" width="450" align="right"></img>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,5 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandeyatul12&show_icons=true&locale=en&layout=compact" alt="pandeyatul12" /></p>
 
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pandeyatul12&show_icons=true&locale=en" alt="pandeyatul12" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pandeyatul12&show_icons=true&locale=en" alt="pandeyatul12" /></p>
