@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/atul kumar pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul kumar pandey" height="30" width="40" /></a>
 <a href="https://instagram.com/pandeyatul12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pandeyatul12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pandeyatul12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pandeyatul12" height="30" width="40" /></a>
+  <a href="https://twitter.com/pandeyatul12_?t=zkI7Y5auRg6wMjEG9gbMZg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pandeyatul12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
