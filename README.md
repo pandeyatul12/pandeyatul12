@@ -1,3 +1,5 @@
+<img src="![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/77961601/144771961-01a65a40-6580-4af8-8777-ede79f69a971.png)" alt="Bg" />
+
 <h1 align="center">Hi 👋, I'm Atul Kumar Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
