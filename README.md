@@ -1,4 +1,4 @@
-<img src='Banner.png' alt="banner"></img>
+<img src='Linkedin banner.png' alt="banner"></img>
 
 <h1 align="center">✌Welcome To My Page✌</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
