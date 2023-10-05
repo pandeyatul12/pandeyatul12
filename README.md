@@ -8,7 +8,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandeyatul12" alt="pandeyatul12" /></a> </p>
 <img src="img.gif" alt="banner" width="450" align="right"></img>
 
-
 - 👨‍💻 All of my projects are available at [https://github.com/pandeyatul12](https://github.com/pandeyatul12)
 
 - 📫 How to reach me **pandeyatul0095@gmail.com**
