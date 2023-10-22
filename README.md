@@ -29,6 +29,8 @@
 src="/microsoft-certified-azure-fundamentals.png" alt="badge" width="100" height="100" /></a>
   <a href="https://www.credly.com/badges/dd28027a-ee00-432e-acda-d2fc52f5e3c7/public_url" target="_blank" rel="noreferrer"> <img
 src="/data-science-orientation.png" alt="badge" width="100" height="100" /></a>
+  <a href="https://www.credly.com/badges/be9e31d9-57e7-441a-afbd-b1f95569a848/public_url" target="_blank" rel="noreferrer"> <img
+src="/tools-for-data-science-v2.png" alt="badge" width="100" height="100" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandeyatul12&show_icons=true&locale=en&layout=compact" alt="pandeyatul12" /></p>
